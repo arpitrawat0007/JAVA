@@ -9,7 +9,7 @@ public class ArraySearching {
         int num = input.nextInt();
         boolean isFound = isFound(arr, num);
         if(isFound){
-            System.out.println("Your Number is found in the Array");
+            System.out.println("Your Number is Found in the arrray");
         }
         else{
             System.out.println("Your Number is Not found in the Array");
